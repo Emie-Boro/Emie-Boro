@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 💻 Software Developer with focus on the Backend.
-- 🌐 BYS, Nigeria.
+- 🌐 Remote.
 <!-- 🎓 Graduated in [Your Field of Study] from [Your University].
 
 ### 🌱 I'm Currently Learning
@@ -24,6 +24,6 @@
 ### ⚡ Fun Fact
 - I love Movies, cooking 😋 and coding
   
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+<!--### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)-->
 
