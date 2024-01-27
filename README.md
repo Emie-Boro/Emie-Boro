@@ -3,31 +3,27 @@
 ### 🚀 About Me
 - 💻 Software Developer with focus on the Backend.
 - 🌐 BYS, Nigeria.
-<!-- 🎓 Graduated in [Your Field of Study] from [Your University].-->
-- 🔭 Currently working on a new portfolio.
+<!-- 🎓 Graduated in [Your Field of Study] from [Your University].
 
 ### 🌱 I'm Currently Learning
-- Next JS, Solidity.
+- Next JS, Solidity.-->
 
 ### 👯 I’m Looking to Collaborate On
-- Open source projects related to Software Development.
+- Open source projects related to Web Development.
 - Exciting and innovative tech initiatives.
 
 ### 💬 Ask Me About
-- Anything related to JavaScript and Backend.
-- Tips and best practices in [specific technology or field].
+- Anything related to JavaScript and NodeJS.
 
 ### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email]
+- Email: emiedonmukumo@gmail.com
 
 ### 😄 Pronouns
-- [Your pronouns, e.g., He/Him, She/Her, They/Them]
-
+- He/Him
+  
 ### ⚡ Fun Fact
-- [Interesting fact about yourself]
-
+- I love Movies, cooking 😋 and coding
+  
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 
