@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Emie Boro
+## 👋 Hello, I'm Emie Dick-Boro
 
 ### 🚀 About Me
 - 💻 Software Developer with focus on the Backend.
