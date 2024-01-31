@@ -22,7 +22,7 @@
 - He/Him
   
 ### ⚡ Fun Fact
-- I love Movies, cooking 😋 and coding
+- I love Movies, food 😋 and coding
   
 <!--### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)-->
