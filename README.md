@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Emie Dick-Boro
+## 👋 Hello, I'm Emiedonmokumo Dick-Boro
 
 ### 🚀 About Me
 - 💻 Software Developer with focus on the Backend.
@@ -6,7 +6,7 @@
 <!-- 🎓 Graduated in [Your Field of Study] from [Your University].
 
 ### 🌱 I'm Currently Learning
-- Next JS, Solidity.-->
+- Next JS, Django.
 
 ### 👯 I’m Looking to Collaborate On
 - Open source projects related to Web Development.
