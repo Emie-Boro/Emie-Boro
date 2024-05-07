@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 💻 Software Developer with focus on the Backend.
 - 🌐 Remote.
-<!-- 🎓 Graduated in [Your Field of Study] from [Your University].
+<!-- 🎓 Graduated in [Your Field of Study] from [Your University].-->
 
 ### 🌱 I'm Currently Learning
 - Next JS, Django.
