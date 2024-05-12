@@ -6,14 +6,14 @@
 <!-- 🎓 Graduated in [Your Field of Study] from [Your University].-->
 
 ### 🌱 I'm Currently Learning
-- Next JS, Django.
+- Redux, Vite, AstroJS.
 
 ### 👯 I’m Looking to Collaborate On
 - Open source projects related to Web Development.
 - Exciting and innovative tech initiatives.
 
 ### 💬 Ask Me About
-- Anything related to JavaScript and NodeJS.
+- Anything related to JavaScript, React, Express and NodeJS.
 
 ### 📫 How to Reach Me
 - Email: emiedonmukumo@gmail.com
